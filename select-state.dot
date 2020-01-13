@@ -18,15 +18,6 @@ digraph G {
 
 	M1[label="移动元素"]
 
-	S0 -> S0 [label="Click on Canvas"]
-	S1 -> S0 [label="Click on Canvas"]
-
-	S0 -> S1 [label="Click on Element"]
-	S1 -> S1 [label="Click on Element"]
-
-	S_T -> S0 [label="Click on Canvas"]
-	S_T -> S1 [label="Click on Element"]
-
 	{S0,S1,S_T} -> M1 [label="MouseDown on Element"]
 	M1->S1 [label="MouseUp"]
 		
