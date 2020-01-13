@@ -1,5 +1,5 @@
 digraph G {
-	node [shape=ellipse]; 
+	node [shape=ellipse fontsize=12]; 
 	edge [fontsize=10, color=gray, fontcolor=gray]
 
 	S0 [
@@ -9,7 +9,8 @@ digraph G {
 	 label= "选中元素"
 	]
 	S_T [label = "选中文字"]
-
+	N0 [label="新建文本框"]
+	Del [label="删除"]
 	node [shape=record]; 
 	Selecting[
 		label="正在框选"
@@ -17,6 +18,8 @@ digraph G {
 	E0 [label="编辑文字"]
 	M1[label="移动元素"]
 	O1 [label="旋转缩放元素"]
+	Align [label="显示对齐线"]
+
 
 	{S0,S1,S_T} -> M1 [label="MouseDown on Element"]
 	M1->S1 [label="MouseUp"]
@@ -30,5 +33,13 @@ digraph G {
 	O1->S1 [label="MouseUp"]
 
 	S0,S1,S_T->S_T[label="DbClick on Element"]
+	S0,S1,S_T->N0[label="双击画布"]
+	N0->S_T
+	M1->Align [label="持续1秒"]
+	//键盘事件
+	S_T->S_T [label="按任意键"]
+	S1->S1 [label="方向键"]
+	S1->S_T [label="其他键"]
+	S1->Del [label="删除键"]
 
 }
