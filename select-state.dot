@@ -15,8 +15,8 @@ digraph G {
 		label="正在框选"
 	]
 	E0 [label="编辑文字"]
-
 	M1[label="移动元素"]
+	O1 [label="旋转缩放元素"]
 
 	{S0,S1,S_T} -> M1 [label="MouseDown on Element"]
 	M1->S1 [label="MouseUp"]
@@ -25,5 +25,10 @@ digraph G {
 	Selecting-> {S0,S1} [label="MouseUp"]
 	{S0,S1} -> E0 [label="MouseDown on Text"]
 	E0-> S_T [label="MouseUp"]
+
+	{S1,S_T}->O1[label="MouseDown on Handler"]
+	O1->S1 [label="MouseUp"]
+
+	S0,S1,S_T->S_T[label="DbClick on Element"]
 
 }
