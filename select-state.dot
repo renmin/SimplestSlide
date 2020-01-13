@@ -1,7 +1,6 @@
 digraph G {
-	node [shape=record]; 
+	node [shape=ellipse]; 
 	edge [fontsize=10, color=gray, fontcolor=gray]
-	
 
 	S0 [
 	 label= "初始态，未选元素"
@@ -9,21 +8,22 @@ digraph G {
 	S1 [
 	 label= "选中元素"
 	]
+	S_T [label = "选中文字"]
 
+	node [shape=record]; 
 	Selecting[
 		label="正在框选"
 	]
 	E0 [label="编辑文字"]
-	S_T [label = "选中文字"]
 
 	M1[label="移动元素"]
 
 	{S0,S1,S_T} -> M1 [label="MouseDown on Element"]
 	M1->S1 [label="MouseUp"]
 		
-	S0 -> Selecting [label="MouseDown on Canvas"]
+	{S0,S_T} -> Selecting [label="MouseDown on Canvas"]
 	Selecting-> {S0,S1} [label="MouseUp"]
-	{S0,S1,Selecting} -> E0 [label="MouseDown on Text"]
+	{S0,S1} -> E0 [label="MouseDown on Text"]
 	E0-> S_T [label="MouseUp"]
 
 }
