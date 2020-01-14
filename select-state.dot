@@ -1,6 +1,5 @@
 digraph G {
-	node [shape=ellipse fontsize=12]; 
-	edge [fontsize=10, color=gray, fontcolor=gray]
+	node [shape=ellipse fontsize=12 style=filled]; 
 
 	S0 [
 	 label= "初始态，未选元素"
@@ -11,7 +10,7 @@ digraph G {
 	S_T [label = "选中文字"]
 	N0 [label="新建文本框"]
 	Del [label="删除"]
-	node [shape=record]; 
+	node [shape=record style=filled fillcolor=lightyellow]; 
 	Selecting[
 		label="正在框选"
 	]
@@ -20,6 +19,7 @@ digraph G {
 	O1 [label="旋转缩放元素"]
 	Align [label="显示对齐线"]
 
+	edge [fontsize=10, color=seagreen, fontcolor=seagreen]
 
 	{S0,S1,S_T} -> M1 [label="MouseDown on Element"]
 	M1->S1 [label="MouseUp"]
@@ -37,6 +37,7 @@ digraph G {
 	N0->S_T
 	M1->Align [label="持续1秒"]
 	//键盘事件
+	edge [fontsize=10, color=tomato3, fontcolor=tomato3]
 	S_T->S_T [label="按任意键"]
 	S1->S1 [label="方向键"]
 	S1->S_T [label="其他键"]
