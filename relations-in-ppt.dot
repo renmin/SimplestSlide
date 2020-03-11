@@ -1,0 +1,36 @@
+digraph G {
+	node[];
+	Presentation
+
+	Master
+
+	Layout
+	Slide
+	Theme
+	NoteMaster [
+		lable= "Note Master"
+	]
+	HandoutMaster [
+		lable= "Handout Master"
+	]
+	Commnets
+	CommnetsAuthor
+	edge[]
+	// Target of an Explicit Relation
+	Presentation -> Master
+	Master-> Layout
+	Presentation -> Slide
+	Presentation -> NoteMaster
+	Presentation -> HandoutMaster
+	Presentation -> CommnetsAuthor
+	Slide -> Commnets
+	Slide->NotesSlide
+	Master-> Theme
+
+	edge[fontsize=10, color=seagreen, fontcolor=seagreen, style=dashed]
+	// Implicit Relation
+	Layout -> Master[lable="defined base on"]
+	Slide->Layout [lable="associated with"]
+	Theme -> {Master, NoteMaster}
+	NoteMaster->NotesSlide
+}
