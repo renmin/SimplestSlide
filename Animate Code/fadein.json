@@ -1,0 +1,33 @@
+{
+    "name": "anim_1_id_w-EskYg19b",
+    "animation": {
+      "0": {
+        "opacity": 0
+      },
+      "100": {
+        "opacity": 1
+      }
+    },
+    "finishStyle": {
+      "opacity": 1
+    },
+    "times": 0,
+    "presets": {
+      "duration": 1000,
+      "fillMode": "both",
+      "easing": "linear",
+      "iterations": 1,
+      "delay": 0,
+      "direction": "normal",
+      "resetWhenDone": false,
+      "clearTransformsBeforeStart": false
+    },
+    "duration": 1000,
+    "fillMode": "both",
+    "easing": "linear",
+    "iterations": 1,
+    "delay": 0,
+    "direction": "normal",
+    "resetWhenDone": false,
+    "clearTransformsBeforeStart": false
+  }

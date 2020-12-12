@@ -1,0 +1,14 @@
+title:移动带连接线的图形
+Movable-->Theater:MouseDown: shape
+Theater->Theater:record(x,y)
+Theater->shapeModel: found
+Theater->lineMoel:found a line
+Theater->EditorLayer: draw shape & line
+
+Movable-->Theater:MouseMove
+Theater->shapeModel: update(x,y)
+Theater->lineMoel: recalculate()
+
+Theater->EditorLayer: update shape & line
+
+

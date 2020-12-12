@@ -1,0 +1,4128 @@
+{
+    "creator": "xiong francis",
+    "lastModify": "Jun Wong",
+    "createTime": "2019-04-12 09:23:41",
+    "modifiedTime": "2019-04-19 07:36:28",
+    "slideWidth": 12192000,
+    "slideHeight": 6858000,
+    "version": "0.1",
+    "slideIdList": [
+        "/ppt/slides/slide1.xml"
+    ],
+    "slideList": [
+        {
+            "id": "/ppt/slides/slide1.xml",
+            "type": "slide",
+            "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+            "slideData": {
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "left": 1214186.8421052631,
+                                    "top": 1330366.7763157892,
+                                    "width": 862263.1578947369,
+                                    "height": 651710.5263157896,
+                                    "rotate": 0
+                                },
+                                "background": {
+                                    "solidFill": {
+                                        "color": {
+                                            "alpha": null,
+                                            "colorType": "rgb",
+                                            "colorValue": "0188FB",
+                                            "lumMod": null,
+                                            "lumOff": null,
+                                            "shade": null
+                                        }
+                                    }
+                                },
+                                "outline": {
+                                    "style": "solid",
+                                    "width": 12700,
+                                    "solidFill": {
+                                        "color": {
+                                            "colorType": "rgb",
+                                            "colorValue": "5C5C5C",
+                                            "alpha": null,
+                                            "lumMod": null,
+                                            "lumOff": null,
+                                            "shade": null
+                                        }
+                                    }
+                                },
+                                "txBox": 0,
+                                "prstGeom": {
+                                    "prstGeomType": "rect",
+                                    "adjList": []
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "lang": "zh-CN",
+                                    "hlink": null
+                                },
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "lang": "zh-CN",
+                                            "hlink": null
+                                        },
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN",
+                                            "hlink": null
+                                        }
+                                    }
+                                ]
+                            },
+                            "id": "id_6f0oy-AzOQ"
+                        },
+                        {
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "left": 3408947.3684210526,
+                                    "top": 1154906.2499999995,
+                                    "width": 1042736.8421052631,
+                                    "height": 1002631.5789473684,
+                                    "rotate": 0
+                                },
+                                "background": {
+                                    "solidFill": {
+                                        "color": {
+                                            "alpha": null,
+                                            "colorType": "rgb",
+                                            "colorValue": "0188FB",
+                                            "lumMod": null,
+                                            "lumOff": null,
+                                            "shade": null
+                                        }
+                                    }
+                                },
+                                "outline": {
+                                    "style": "solid",
+                                    "width": 12700,
+                                    "solidFill": {
+                                        "color": {
+                                            "colorType": "rgb",
+                                            "colorValue": "5C5C5C",
+                                            "alpha": null,
+                                            "lumMod": null,
+                                            "lumOff": null,
+                                            "shade": null
+                                        }
+                                    }
+                                },
+                                "txBox": 0,
+                                "prstGeom": {
+                                    "prstGeomType": "ellipse",
+                                    "adjList": []
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "lang": "zh-CN",
+                                    "hlink": null
+                                },
+                                "paragraphList": []
+                            },
+                            "id": "id_c-R9Yj226z"
+                        },
+                        {
+                            "type": "cxnSp",
+                            "props": {
+                                "frame": {
+                                    "flipH": 0,
+                                    "flipV": 0,
+                                    "left": 2076450,
+                                    "top": 1653116.6666666665,
+                                    "width": 2374900,
+                                    "height": 8466.666666666666,
+                                    "rotate": 0
+                                },
+                                "background": {
+                                    "noFill": 1
+                                },
+                                "outline": {
+                                    "style": "solid",
+                                    "width": 25400,
+                                    "solidFill": {
+                                        "color": {
+                                            "colorType": "rgb",
+                                            "colorValue": "000000",
+                                            "alpha": null,
+                                            "lumMod": null,
+                                            "lumOff": null,
+                                            "shade": null
+                                        }
+                                    },
+                                    "tailEnd": {
+                                        "lineEndType": null
+                                    },
+                                    "headEnd": {
+                                        "lineEndType": null
+                                    }
+                                },
+                                "prstGeom": {
+                                    "prstGeomType": "bentConnector5",
+                                    "adjList": [
+                                        "val 28075",
+                                        "val -7425000",
+                                        "val 105348"
+                                    ]
+                                },
+                                "cxnSpProps": {
+                                    "stCxn": {
+                                        "id": "id_6f0oy-AzOQ",
+                                        "index": 1
+                                    },
+                                    "endCxn": {
+                                        "id": "id_c-R9Yj226z",
+                                        "index": 6
+                                    }
+                                }
+                            },
+                            "id": "id_irtQR9LPYy"
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        }
+    ],
+    "layoutList": [
+        {
+            "id": "/ppt/slideLayouts/slideLayout1.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "封面",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1470233,
+                                    "left": 1524000,
+                                    "width": 9144000,
+                                    "height": 2387600
+                                },
+                                "placeholder": {
+                                    "type": "ctrTitle"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "alignment": "ctr",
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 6000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "副标题 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 3949908,
+                                    "left": 1524000,
+                                    "width": 9144000,
+                                    "height": 1655762
+                                },
+                                "placeholder": {
+                                    "type": "subTitle",
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2400
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1800
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "alignment": "ctr",
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版副标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout2.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "标题内容",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "内容占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "placeholder": {
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout3.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "空白页",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout4.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "节标题",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1471199,
+                                    "left": 831850,
+                                    "width": 10515600,
+                                    "height": 2852737
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 6000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "文本占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 4350924,
+                                    "left": 831850,
+                                    "width": 10515600,
+                                    "height": 1500187
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2400,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1800,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "solidFill": {
+                                                "color": {
+                                                    "colorValue": "tx1",
+                                                    "colorType": "scheme",
+                                                    "tint": 75000
+                                                }
+                                            }
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout5.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "两栏内容",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "内容占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 838200,
+                                    "width": 5181600,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 6172200,
+                                    "width": 5181600,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout6.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "对比内容",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 365125,
+                                    "left": 839788,
+                                    "width": 10515600,
+                                    "height": 1325563
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "文本占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1681163,
+                                    "left": 839788,
+                                    "width": 5157787,
+                                    "height": 823912
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2400,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1800,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 2505075,
+                                    "left": 839788,
+                                    "width": 5157787,
+                                    "height": 3684588
+                                },
+                                "placeholder": {
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "name": "文本占位符 4",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1681163,
+                                    "left": 6172200,
+                                    "width": 5183188,
+                                    "height": 823912
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 3
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2400,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1800,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600,
+                                            "bold": 1
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "6",
+                            "name": "内容占位符 5",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 2505075,
+                                    "left": 6172200,
+                                    "width": 5183188,
+                                    "height": 3684588
+                                },
+                                "placeholder": {
+                                    "index": 4
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout7.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "内容与标题",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 723106,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 1600200
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 3200
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "内容占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 723106,
+                                    "left": 5183188,
+                                    "width": 6172200,
+                                    "height": 5411787
+                                },
+                                "placeholder": {
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 3200
+                                        }
+                                    },
+                                    {
+                                        "level": 1,
+                                        "defaultRunProps": {
+                                            "font_size": 2800
+                                        }
+                                    },
+                                    {
+                                        "level": 2,
+                                        "defaultRunProps": {
+                                            "font_size": 2400
+                                        }
+                                    },
+                                    {
+                                        "level": 3,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "level": 4,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "level": 5,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "level": 6,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "level": 7,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "level": 8,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "文本占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 2323306,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 3811588
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1400
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1200
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout8.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "图片与标题",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 727074,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 1600200
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 3200
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "图片占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 727075,
+                                    "left": 5183188,
+                                    "width": 6172200,
+                                    "height": 5403850
+                                },
+                                "placeholder": {
+                                    "type": "pic",
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 3200
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2800
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2400
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 2000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "文本占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 2327274,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 3811588
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1400
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1200
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout9.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "表格与标题",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "3",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 727074,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 1600200
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "anchor": "b"
+                                },
+                                "textStyleList": [
+                                    {
+                                        "level": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 3200
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "name": "文本占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 2327274,
+                                    "left": 839788,
+                                    "width": 3932237,
+                                    "height": 3811588
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "textStyleList": [
+                                    {
+                                        "buNone": 1,
+                                        "level": 0,
+                                        "marginLeft": 0,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1600
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 1,
+                                        "marginLeft": 457200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1400
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 2,
+                                        "marginLeft": 914400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1200
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 3,
+                                        "marginLeft": 1371600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 4,
+                                        "marginLeft": 1828800,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 5,
+                                        "marginLeft": 2286000,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 6,
+                                        "marginLeft": 2743200,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 7,
+                                        "marginLeft": 3200400,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    },
+                                    {
+                                        "buNone": 1,
+                                        "level": 8,
+                                        "marginLeft": 3657600,
+                                        "indent": 0,
+                                        "defaultRunProps": {
+                                            "font_size": 1000
+                                        }
+                                    }
+                                ],
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "7",
+                            "name": "表格占位符 6",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 719137,
+                                    "left": 5172891,
+                                    "width": 6179322,
+                                    "height": 5419726
+                                },
+                                "placeholder": {
+                                    "type": "tbl",
+                                    "index": 10
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout10.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "三栏内容",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "内容占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 838200,
+                                    "width": 3299791,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "index": 1
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 4446104,
+                                    "width": 3299791,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "index": 2
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 8054009,
+                                    "width": 3299791,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "index": 10
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout11.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "两行内容",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "4",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1690688,
+                                    "left": 838200,
+                                    "width": 10515600,
+                                    "height": 2172811
+                                },
+                                "placeholder": {
+                                    "index": 10
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "5",
+                            "name": "内容占位符 3",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 3863500,
+                                    "left": 838200,
+                                    "width": 10515600,
+                                    "height": 2241232
+                                },
+                                "placeholder": {
+                                    "index": 11
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        },
+        {
+            "id": "/ppt/slideLayouts/slideLayout12.xml",
+            "type": "layout",
+            "masterId": "/ppt/slideMasters/slideMaster1.xml",
+            "slideData": {
+                "name": "多张图片",
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "3",
+                            "name": "标题 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 365125,
+                                    "left": 838200,
+                                    "width": 10515600,
+                                    "height": 1325563
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "7",
+                            "name": "图片占位符 6",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1690689,
+                                    "left": 838200,
+                                    "width": 5257800,
+                                    "height": 2338886
+                                },
+                                "placeholder": {
+                                    "type": "pic",
+                                    "index": 10
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "8",
+                            "name": "图片占位符 6",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1690689,
+                                    "left": 6096001,
+                                    "width": 5257802,
+                                    "height": 2338886
+                                },
+                                "placeholder": {
+                                    "type": "pic",
+                                    "index": 11
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "9",
+                            "name": "图片占位符 6",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 4029575,
+                                    "left": 838200,
+                                    "width": 5257800,
+                                    "height": 2338886
+                                },
+                                "placeholder": {
+                                    "type": "pic",
+                                    "index": 12
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "10",
+                            "name": "图片占位符 6",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 4029575,
+                                    "left": 6096001,
+                                    "width": 5257802,
+                                    "height": 2338886
+                                },
+                                "placeholder": {
+                                    "type": "pic",
+                                    "index": 13
+                                }
+                            },
+                            "textBody": {
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [],
+                                        "endParaRPr": {
+                                            "lang": "zh-CN"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            }
+        }
+    ],
+    "masterList": [
+        {
+            "id": "/ppt/slideMasters/slideMaster1.xml",
+            "type": "master",
+            "themeId": "/ppt/theme/theme1.xml",
+            "themeName": "白色主题​​",
+            "slideData": {
+                "background": {
+                    "solidFill": {
+                        "color": {
+                            "colorValue": "bg1",
+                            "colorType": "scheme"
+                        }
+                    }
+                },
+                "groupShape": {
+                    "id": "1",
+                    "name": "",
+                    "props": {
+                        "frame": {
+                            "top": 0,
+                            "left": 0,
+                            "width": 0,
+                            "height": 0,
+                            "childOffsetLeft": 0,
+                            "childOffsetTop": 0,
+                            "childWidth": 0,
+                            "childHeight": 0
+                        }
+                    },
+                    "shapeList": [
+                        {
+                            "id": "2",
+                            "name": "标题占位符 1",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 365125,
+                                    "left": 838200,
+                                    "width": 10515600,
+                                    "height": 1325563
+                                },
+                                "placeholder": {
+                                    "type": "title"
+                                },
+                                "prstGeom": {
+                                    "prstGeomType": "rect"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "vert": "horz",
+                                    "anchor": "ctr",
+                                    "autoFitType": "normAutofit",
+                                    "left_inset": 91440,
+                                    "right_inset": 91440,
+                                    "top_inset": 45720,
+                                    "bottom_inset": 45720
+                                },
+                                "paragraphList": [
+                                    {
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版标题样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "3",
+                            "name": "文本占位符 2",
+                            "type": "shape",
+                            "props": {
+                                "frame": {
+                                    "top": 1825625,
+                                    "left": 838200,
+                                    "width": 10515600,
+                                    "height": 4351338
+                                },
+                                "placeholder": {
+                                    "type": "body",
+                                    "index": 1
+                                },
+                                "prstGeom": {
+                                    "prstGeomType": "rect"
+                                }
+                            },
+                            "textBody": {
+                                "props": {
+                                    "vert": "horz",
+                                    "autoFitType": "normAutofit",
+                                    "left_inset": 91440,
+                                    "right_inset": 91440,
+                                    "top_inset": 45720,
+                                    "bottom_inset": 45720
+                                },
+                                "paragraphList": [
+                                    {
+                                        "paragraphProps": {
+                                            "level": 0
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "单击此处编辑母版文本样式",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 1
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "二级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 2
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "三级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 3
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "四级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paragraphProps": {
+                                            "level": 4
+                                        },
+                                        "paragraphItem": [
+                                            {
+                                                "props": {
+                                                    "lang": "zh-CN"
+                                                },
+                                                "text": "五级",
+                                                "type": "run"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "type": "groupShape"
+                }
+            },
+            "titleTextStyleList": [
+                {
+                    "alignment": "l",
+                    "buNone": 1,
+                    "level": 0,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 4400,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPct": 0
+                    }
+                }
+            ],
+            "bodyTextStyleList": [
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 0,
+                    "marginLeft": 228600,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 2800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 1000
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 1,
+                    "marginLeft": 685800,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 2400,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 2,
+                    "marginLeft": 1143000,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 2000,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 3,
+                    "marginLeft": 1600200,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 4,
+                    "marginLeft": 2057400,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "微软雅黑"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 5,
+                    "marginLeft": 2514600,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 6,
+                    "marginLeft": 2971800,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 7,
+                    "marginLeft": 3429000,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "character_bullet_char": "•",
+                    "buFont": {
+                        "charset": "0",
+                        "typeface": "Arial"
+                    },
+                    "level": 8,
+                    "marginLeft": 3886200,
+                    "indent": -228600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    },
+                    "lnSpc": {
+                        "spcPct": 90000
+                    },
+                    "spcBef": {
+                        "spcPts": 500
+                    }
+                }
+            ],
+            "clrMap": {
+                "bg1": "lt1",
+                "tx1": "dk1",
+                "bg2": "lt2",
+                "tx2": "dk2",
+                "accent1": "accent1",
+                "accent2": "accent2",
+                "accent3": "accent3",
+                "accent4": "accent4",
+                "accent5": "accent5",
+                "accent6": "accent6",
+                "hlink": "hlink",
+                "folHlink": "folHlink"
+            },
+            "otherTextStyleList": [
+                {
+                    "alignment": "l",
+                    "level": 0,
+                    "marginLeft": 0,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 1,
+                    "marginLeft": 457200,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 2,
+                    "marginLeft": 914400,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 3,
+                    "marginLeft": 1371600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 4,
+                    "marginLeft": 1828800,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 5,
+                    "marginLeft": 2286000,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 6,
+                    "marginLeft": 2743200,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 7,
+                    "marginLeft": 3200400,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                },
+                {
+                    "alignment": "l",
+                    "level": 8,
+                    "marginLeft": 3657600,
+                    "defTablSz": 914400,
+                    "defaultRunProps": {
+                        "font": {
+                            "latin": {
+                                "typeface": "Arial"
+                            },
+                            "ea": {
+                                "typeface": "微软雅黑"
+                            }
+                        },
+                        "font_size": 1800,
+                        "solidFill": {
+                            "color": {
+                                "colorValue": "tx1",
+                                "colorType": "scheme"
+                            }
+                        },
+                        "kern": 1200
+                    }
+                }
+            ]
+        }
+    ],
+    "themeList": [
+        {
+            "id": "/ppt/theme/theme1.xml",
+            "themeElements": {
+                "clrScheme": {
+                    "dk1": "000000",
+                    "lt1": "FFFFFF",
+                    "dk2": "44546A",
+                    "lt2": "E7E6E6",
+                    "accent1": "4472C4",
+                    "accent2": "ED7D31",
+                    "accent3": "A5A5A5",
+                    "accent4": "FFC000",
+                    "accent5": "5B9BD5",
+                    "accent6": "70AD47",
+                    "hlink": "0563C1",
+                    "folHlink": "954F72"
+                }
+            }
+        }
+    ],
+    "tblStyleList": {
+        "def": "{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}",
+        "tableStyleEntryList": []
+    },
+    "defaultTextStyleList": [
+        {
+            "alignment": "l",
+            "level": 0,
+            "marginLeft": 0,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 1,
+            "marginLeft": 457200,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 2,
+            "marginLeft": 914400,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 3,
+            "marginLeft": 1371600,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 4,
+            "marginLeft": 1828800,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 5,
+            "marginLeft": 2286000,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 6,
+            "marginLeft": 2743200,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 7,
+            "marginLeft": 3200400,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        },
+        {
+            "alignment": "l",
+            "level": 8,
+            "marginLeft": 3657600,
+            "defTablSz": 914400,
+            "defaultRunProps": {
+                "font": {
+                    "latin": {
+                        "typeface": "Arial"
+                    },
+                    "ea": {
+                        "typeface": "微软雅黑"
+                    }
+                },
+                "font_size": 1800,
+                "solidFill": {
+                    "color": {
+                        "colorValue": "tx1",
+                        "colorType": "scheme"
+                    }
+                },
+                "kern": 1200
+            }
+        }
+    ],
+    "firstSlideContent": "<div class=\"scale-slide-slide-3-B7E\" id=\"previewSlide\" style=\"overflow: hidden;\"><svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" style=\"left: 0px; top: 0px; width: 1920px; height: 1080px; position: absolute; overflow: visible;\"><g><path class=\"ppt-editor-cursor-global-auto-3GgYO\" stroke=\"none\" stroke-width=\"1.5\" stroke-dasharray=\"0\" stroke-linejoin=\"miter\" stroke-linecap=\"butt\" stroke-opacity=\"1\" fill=\"#FFFFFF\" fill-opacity=\"1\" d=\"M 0 0 L 1920 0 L 1920 1080 L 0 1080 Z\" pointer-events=\"auto\" style=\"user-select: text;\"></path></g></svg><div id=\"list-nTA-lsLP6r\" style=\"position: absolute;\"><div class=\"slide-slideItem-1JG-R ppt-editor-cursor-global-move-2Ur9s\" id=\"slide-div\" style=\"top: 231.533px; left: 240px; width: 1440px; height: 376px; pointer-events: auto;\"><div style=\"width: 1440px; height: 376px; position: absolute;\"><svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" style=\"left: 0px; top: 0px; width: 1440px; height: 376px; position: absolute; overflow: visible;\"><g><path class=\"ppt-editor-cursor-global-auto-3GgYO\" stroke=\"none\" stroke-width=\"1.5\" stroke-dasharray=\"0\" stroke-linejoin=\"miter\" stroke-linecap=\"butt\" stroke-opacity=\"1\" fill=\"none\" fill-opacity=\"1\" d=\"M 0 0 L 1440 0 L 1440 376 L 0 376 Z\" pointer-events=\"auto\" style=\"user-select: text;\"></path></g></svg></div></div></div><div id=\"list-_DYUXWBkYS\" style=\"position: absolute;\"><div class=\"slide-slideItem-1JG-R ppt-editor-cursor-global-move-2Ur9s\" id=\"slide-div\" style=\"top: 622.033px; left: 240px; width: 1440px; height: 260.75px; pointer-events: auto;\"><div style=\"width: 1440px; height: 260.75px; position: absolute;\"><svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" style=\"left: 0px; top: 0px; width: 1440px; height: 261px; position: absolute; overflow: visible;\"><g><path class=\"ppt-editor-cursor-global-auto-3GgYO\" stroke=\"none\" stroke-width=\"1.5\" stroke-dasharray=\"0\" stroke-linejoin=\"miter\" stroke-linecap=\"butt\" stroke-opacity=\"1\" fill=\"none\" fill-opacity=\"1\" d=\"M 0 0 L 1440 0 L 1440 260.7499212598425 L 0 260.7499212598425 Z\" pointer-events=\"auto\" style=\"user-select: text;\"></path></g></svg></div></div></div></div>"
+}

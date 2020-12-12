@@ -1,0 +1,216 @@
+[
+    [
+      {
+        "op": "remove",
+        "path": "/slideData/groupShape/shapeList/0",
+        "target": "/slideList/0",
+        "tid": "/ppt/slides/slide1.xml",
+        "pid": "id_6f0oy-AzOQ"
+      },
+      {
+        "op": "remove",
+        "path": "/slideData/groupShape/shapeList/0",
+        "pid": "id_c-R9Yj226z"
+      },
+      {
+        "op": "remove",
+        "path": "/slideData/groupShape/shapeList/0",
+        "pid": "id_irtQR9LPYy"
+      },
+      {
+        "op": "add",
+        "path": "/slideData/groupShape/shapeList/0",
+        "value": {
+          "shapeList": [
+            {
+              "type": "shape",
+              "props": {
+                "frame": {
+                  "left": 1214186.8421052631,
+                  "top": 1330366.7763157892,
+                  "width": 862263.1578947369,
+                  "height": 651710.5263157896,
+                  "rotate": 0
+                },
+                "background": {
+                  "solidFill": {
+                    "color": {
+                      "alpha": null,
+                      "colorType": "rgb",
+                      "colorValue": "0188FB",
+                      "lumMod": null,
+                      "lumOff": null,
+                      "shade": null
+                    }
+                  }
+                },
+                "outline": {
+                  "style": "solid",
+                  "width": 12700,
+                  "solidFill": {
+                    "color": {
+                      "colorType": "rgb",
+                      "colorValue": "5C5C5C",
+                      "alpha": null,
+                      "lumMod": null,
+                      "lumOff": null,
+                      "shade": null
+                    }
+                  }
+                },
+                "txBox": 0,
+                "prstGeom": {
+                  "prstGeomType": "rect",
+                  "adjList": []
+                }
+              },
+              "textBody": {
+                "props": {
+                  "lang": "zh-CN",
+                  "hlink": null
+                },
+                "paragraphList": [
+                  {
+                    "paragraphProps": {
+                      "lang": "zh-CN",
+                      "hlink": null
+                    },
+                    "paragraphItem": [],
+                    "endParaRPr": {
+                      "lang": "zh-CN",
+                      "hlink": null
+                    }
+                  }
+                ]
+              },
+              "id": "id_6f0oy-AzOQ"
+            },
+            {
+              "type": "shape",
+              "props": {
+                "frame": {
+                  "left": 761999.9999999993,
+                  "top": 2633787.828947368,
+                  "width": 641684.2105263161,
+                  "height": 1002631.5789473684,
+                  "rotate": 0,
+                  "flipH": 1,
+                  "flipV": 0
+                },
+                "background": {
+                  "solidFill": {
+                    "color": {
+                      "alpha": null,
+                      "colorType": "rgb",
+                      "colorValue": "0188FB",
+                      "lumMod": null,
+                      "lumOff": null,
+                      "shade": null
+                    }
+                  }
+                },
+                "outline": {
+                  "style": "solid",
+                  "width": 12700,
+                  "solidFill": {
+                    "color": {
+                      "colorType": "rgb",
+                      "colorValue": "5C5C5C",
+                      "alpha": null,
+                      "lumMod": null,
+                      "lumOff": null,
+                      "shade": null
+                    }
+                  }
+                },
+                "txBox": 0,
+                "prstGeom": {
+                  "prstGeomType": "ellipse",
+                  "adjList": []
+                }
+              },
+              "textBody": {
+                "props": {
+                  "lang": "zh-CN",
+                  "hlink": null
+                },
+                "paragraphList": []
+              },
+              "id": "id_c-R9Yj226z"
+            },
+            {
+              "type": "cxnSp",
+              "props": {
+                "frame": {
+                  "flipH": 1,
+                  "flipV": 0,
+                  "left": 762000,
+                  "top": 1657350,
+                  "width": 1314450,
+                  "height": 1479550,
+                  "rotate": 0
+                },
+                "background": {
+                  "noFill": 1
+                },
+                "outline": {
+                  "style": "solid",
+                  "width": 25400,
+                  "solidFill": {
+                    "color": {
+                      "colorType": "rgb",
+                      "colorValue": "000000",
+                      "alpha": null,
+                      "lumMod": null,
+                      "lumOff": null,
+                      "shade": null
+                    }
+                  },
+                  "tailEnd": {
+                    "lineEndType": null
+                  },
+                  "headEnd": {
+                    "lineEndType": null
+                  }
+                },
+                "prstGeom": {
+                  "prstGeomType": "bentConnector5",
+                  "adjList": [
+                    "val -9662",
+                    "val 43991",
+                    "val 109662"
+                  ]
+                },
+                "cxnSpProps": {
+                  "stCxn": {
+                    "id": "id_6f0oy-AzOQ",
+                    "index": 1
+                  },
+                  "endCxn": {
+                    "id": "id_c-R9Yj226z",
+                    "index": 6
+                  }
+                }
+              },
+              "id": "id_irtQR9LPYy"
+            }
+          ],
+          "type": "groupShape",
+          "id": "id_CGEjL2fYZ",
+          "props": {
+            "frame": {
+              "top": 1330366,
+              "left": 761999,
+              "width": 1314451,
+              "height": 2306052,
+              "childOffsetLeft": 761999,
+              "childOffsetTop": 1330366,
+              "childWidth": 1314451,
+              "childHeight": 2306052
+            }
+          }
+        },
+        "pid": "end"
+      }
+    ]
+  ]

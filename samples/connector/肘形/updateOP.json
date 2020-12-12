@@ -1,0 +1,54 @@
+[
+    [
+      {
+        "op": "replace",
+        "path": "/props/frame/left",
+        "value": 761999.9999999993,
+        "target": "/slideList/0/slideData/groupShape/shapeList/1",
+        "tid": "/ppt/slides/slide1.xml|id_c-R9Yj226z"
+      },
+      {
+        "op": "replace",
+        "path": "/props/frame/top",
+        "value": 2633787.828947368
+      }
+    ],
+    [
+      {
+        "op": "replace",
+        "path": "/props/frame/flipH",
+        "value": 1,
+        "target": "/slideList/0/slideData/groupShape/shapeList/2",
+        "tid": "/ppt/slides/slide1.xml|id_irtQR9LPYy"
+      },
+      {
+        "op": "replace",
+        "path": "/props/frame/left",
+        "value": 762000
+      },
+      {
+        "op": "replace",
+        "path": "/props/frame/width",
+        "value": 1314450
+      },
+      {
+        "op": "replace",
+        "path": "/props/frame/height",
+        "value": 1479550
+      },
+      {
+        "op": "replace",
+        "path": "/props/prstGeom/prstGeomType",
+        "value": "bentConnector5"
+      },
+      {
+        "op": "replace",
+        "path": "/props/prstGeom/adjList",
+        "value": [
+          "val -9662",
+          "val 43991",
+          "val 109662"
+        ]
+      }
+    ]
+  ]

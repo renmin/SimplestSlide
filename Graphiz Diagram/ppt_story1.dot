@@ -1,0 +1,23 @@
+digraph graphviz{
+    // 定义图属性
+    graph [bgcolor = "#666666",
+    fontname="Futura", fontcolor = white, fontsize = 24,
+    labelloc = t, // 标签垂直顶部
+    labeljust = c // 标签水平居中
+    ]
+    // 定义共用节点属性
+    node [shape="cds", color="#dddddd", penwidth="0.5",style="filled",
+    fixedsize=true, width=3, height=0.5, fontname="Futura", fontsize=10]
+    // 定义公用边属性
+    edge [color="#cccccc", style="dashed", arrowhead=vee, arrowsize=0.75, penwidth="0.75"]
+
+    label = "Graphviz\n关系图脚本绘制工具"
+
+    prepare [fillcolor="#dfc1c1", label="准备"]
+    dot [fillcolor="#c1dfc1", label="DOT语言"]
+    tpi [fillcolor="#c1c1df", label="第三方集成"]
+
+    // 步骤
+    prepare -> dot
+    dot -> tpi
+}

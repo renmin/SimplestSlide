@@ -1,0 +1,45 @@
+if (o1.path == o2.path) {
+    // 移动同一个对象
+    if (o1.toPath == o2.toPath) {
+        // 到同一个容器
+        if (o1.beforeId == o2.beforeId) {
+            //位置相同，不用OT
+        }
+        else {
+            //位置不同，以后者为准
+        }
+    }
+    else{
+        // 到不同容器
+        // 位置不同，先移动的生效，后者移动无效
+    }
+}
+else if (isAncestor(o1.path, o2.path)){
+    // 移动了祖先和孩子，可以根据id找到节点，无需OT
+}
+else if (isAncestor(o2.path, o1.path)){
+    // 移动了祖先和孩子，可以根据id找到节点，无需OT
+}
+else if (o1.path == o2.toPath || isAncestor(o1.path, o2.toPath)) {
+    // 目标容器被移动，可以根据id找到目标容器，无需OT
+}
+else if (o1.toPath == o2.path || isAncestor(o2.path, o1.toPath)) {
+    // 目标容器被移动，可以根据id找到目标容器，无需OT
+}
+else {
+    // 不同对象移动到同一个父节点
+    if (o1.toPath == o2.toPath && o1.beforeId == o2.beforeId) {
+        // 目标位置相同，顺序不同需OT
+    }
+    else{
+        // 目标位置不相关，不用OT
+        if (o2.path.id == o1.beforeId) {
+            // 参照物被内部移动，需要OT
+            o1.beforeId = o2.oldBeforeId
+        }
+        if (o1.path.id == o2.beforeId) {
+            // 参照物被内部移动，需要OT
+            o2.beforeId = o1.oldBeforeId
+        }
+    }
+}

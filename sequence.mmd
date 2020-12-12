@@ -1,0 +1,46 @@
+App-->协同引擎:Load Data
+
+App->通用框架:界面布局
+通用框架->App: 包含T、L、R、Fill的Layout
+
+协同引擎->App: 外存模型
+
+App->演示组件:外存模型
+演示组件->App: 内存模型
+
+App->演示组件:渲染第1页slide
+演示组件->App: 渲染结果
+App->App: 在Fill区域\n显示slide
+
+
+App->演示组件:工具栏、菜单config
+演示组件->App: config data
+
+App->通用框架:菜单、工具栏
+通用框架->App: component
+
+App->App: 在Top区域\n显示菜单、工具栏
+
+App->演示组件:渲染预览页
+演示组件->App: 渲染结果
+App->App: 在Left区域\n显示thumbnails
+
+
+App->演示组件:状态栏config
+演示组件->App: config data
+
+App->通用框架:状态栏
+通用框架->App: component
+
+App->App: 在Bottom区域\n显示状态栏
+
+
+
+
+
+
+
+
+
+
+

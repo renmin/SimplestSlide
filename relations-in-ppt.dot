@@ -8,11 +8,9 @@ digraph G {
 	Slide
 	Theme
 	NoteMaster [
-		lable= "Note Master"
+		label= "Note Master"
 	]
-	HandoutMaster [
-		lable= "Handout Master"
-	]
+	HandoutMaster [label="Handout Master"]
 	Commnets
 	CommnetsAuthor
 	edge[]
@@ -29,8 +27,8 @@ digraph G {
 
 	edge[fontsize=10, color=seagreen, fontcolor=seagreen, style=dashed]
 	// Implicit Relation
-	Layout -> Master[lable="defined base on"]
-	Slide->Layout [lable="associated with"]
+	Layout -> Master[label="defined base on"]
+	Slide->Layout [label="associated with"]
 	Theme -> {Master, NoteMaster}
 	NoteMaster->NotesSlide
 }
